@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HabitTracker", "HabitTracker.csproj", "{8CF01AE4-5CF3-4089-AFDB-8D7200B3D373}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingTracker.TwilightSaw", "..\CodeReviews.Console.CodingTracker\CodingTracker.TwilightSaw\CodingTracker.TwilightSaw.csproj", "{BE30C72C-6B46-416C-9110-C86819AD8ED5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8CF01AE4-5CF3-4089-AFDB-8D7200B3D373}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CF01AE4-5CF3-4089-AFDB-8D7200B3D373}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CF01AE4-5CF3-4089-AFDB-8D7200B3D373}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE30C72C-6B46-416C-9110-C86819AD8ED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE30C72C-6B46-416C-9110-C86819AD8ED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE30C72C-6B46-416C-9110-C86819AD8ED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE30C72C-6B46-416C-9110-C86819AD8ED5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
